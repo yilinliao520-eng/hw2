@@ -1,0 +1,12 @@
+{
+    "run_name": "H8_resnet18_cbam",
+    "model": "resnet18_cbam",
+    "pretrained": true,
+    "best_epoch": 19,
+    "best_val_acc": 0.9705882352941176,
+    "test_loss": 0.12216491442100674,
+    "test_acc": 0.9666666666666667,
+    "best_model_path": "./results/H8_resnet18_cbam/best.pth",
+    "metrics_path": "./results/H8_resnet18_cbam/metrics.csv",
+    "config_path": "./results/H8_resnet18_cbam/config.json"
+}

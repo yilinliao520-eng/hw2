@@ -1,0 +1,12 @@
+3{
+    "run_name": "H1_baseline",
+    "model": "resnet18",
+    "pretrained": true,
+    "best_epoch": 20,
+    "best_val_acc": 0.9607843137254902,
+    "test_loss": 0.18475887454023548,
+    "test_acc": 0.9480392156862745,
+    "best_model_path": "./results/H1_baseline/best.pth",
+    "metrics_path": "./results/H1_baseline/metrics.csv",
+    "config_path": "./results/H1_baseline/config.json"
+}

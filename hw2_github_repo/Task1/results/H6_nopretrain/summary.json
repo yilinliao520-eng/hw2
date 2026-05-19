@@ -1,0 +1,12 @@
+{
+    "run_name": "H6_nopretrain",
+    "model": "resnet18",
+    "pretrained": false,
+    "best_epoch": 20,
+    "best_val_acc": 0.4519607843137255,
+    "test_loss": 2.087700023838118,
+    "test_acc": 0.4392156862745098,
+    "best_model_path": "./results/H6_nopretrain/best.pth",
+    "metrics_path": "./results/H6_nopretrain/metrics.csv",
+    "config_path": "./results/H6_nopretrain/config.json"
+}
