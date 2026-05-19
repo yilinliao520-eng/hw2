@@ -1,0 +1,26 @@
+names:
+- ambulance
+- army vehicle
+- auto rickshaw
+- bicycle
+- bus
+- car
+- garbagevan
+- human hauler
+- minibus
+- minivan
+- motorbike
+- pickup
+- policecar
+- rickshaw
+- scooter
+- suv
+- taxi
+- three wheelers -CNG-
+- truck
+- van
+- wheelbarrow
+nc: 21
+train: train/images
+val: valid/images
+path: /inspire/hdd/project/fdu-aidake-cfff/public/liaoyilin/hw2/data/raw/archive/trafic_data

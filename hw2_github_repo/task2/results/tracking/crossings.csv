@@ -1,0 +1,6 @@
+frame,track_id,class,from_side,to_side
+40,1,car,negative,positive
+162,72,car,positive,negative
+333,39,car,positive,negative
+673,218,bus,positive,negative
+883,298,car,positive,negative

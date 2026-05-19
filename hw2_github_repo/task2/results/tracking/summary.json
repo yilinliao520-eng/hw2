@@ -1,0 +1,32 @@
+{
+  "source": "videos/user_road_video_new_30s.mp4",
+  "weights": "runs/detect/road_vehicle_yolov8s_b16/weights/best.pt",
+  "frames_with_detections": 900,
+  "detections": 2857,
+  "unique_track_ids": 78,
+  "line": [
+    640.0,
+    0.0,
+    640.0,
+    720.0
+  ],
+  "line_crossings": 5,
+  "class_observations": {
+    "car": 2000,
+    "motorbike": 114,
+    "van": 344,
+    "minivan": 77,
+    "pickup": 42,
+    "suv": 50,
+    "human hauler": 24,
+    "three wheelers -CNG-": 69,
+    "truck": 15,
+    "bus": 119,
+    "bicycle": 3
+  },
+  "outputs": {
+    "annotated_video": "/inspire/hdd/project/fdu-aidake-cfff/public/liaoyilin/hw2/runs/track/user_road_video_new_yolov8s_b16/annotated.mp4",
+    "detections_csv": "/inspire/hdd/project/fdu-aidake-cfff/public/liaoyilin/hw2/runs/track/user_road_video_new_yolov8s_b16/detections.csv",
+    "crossings_csv": "/inspire/hdd/project/fdu-aidake-cfff/public/liaoyilin/hw2/runs/track/user_road_video_new_yolov8s_b16/crossings.csv"
+  }
+}

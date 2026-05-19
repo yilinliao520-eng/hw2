@@ -1,0 +1,6 @@
+{
+  "dataset_root": "data/stanford_background/iccv09Data",
+  "num_images": 715,
+  "val_ratio": 0.2,
+  "seed": 42
+}

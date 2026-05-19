@@ -1,0 +1,15 @@
+{
+  "data_root": "data/stanford_background",
+  "splits_dir": "data/splits",
+  "loss": "ce_dice",
+  "epochs": 50,
+  "batch_size": 8,
+  "lr": 0.0003,
+  "image_size": 256,
+  "base_channels": 32,
+  "workers": 0,
+  "device": "cuda:0",
+  "seed": 42,
+  "out_dir": "runs",
+  "name": "unet_ce_dice"
+}
